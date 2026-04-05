@@ -1,0 +1,5 @@
+{
+  "name": "TechCounter - Minimalist Project Tracker",
+  "description": "A tech-inspired utility for managing multiple counting projects with custom items, real-time statistics, and image export capabilities.",
+  "requestFramePermissions": []
+}
